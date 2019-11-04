@@ -1,4 +1,4 @@
-# Transfer Learning Class
+# Transfer Learning Class - GCP Version
 
 The goal of this class is to use GCP to show the potential of transfer learning, as well as its cost in time and processing power.
 For this class we are using the dog-vs-cat dataset from Kaggle. The dataset should be in a GCP bucket dog-vs-cat-arnaud-test.
