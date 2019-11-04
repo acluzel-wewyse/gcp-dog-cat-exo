@@ -1,4 +1,4 @@
-# Transfer Learning Class - Gdrive Version
+# Transfer Learning Class
 
 The goal of this class is to show the potential of transfer learning through the use case of Dipanjan Sarkar.
 The link to the original article can be found [here](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a).
